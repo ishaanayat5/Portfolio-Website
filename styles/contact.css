@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #006400;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: white;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  label {
+    margin-top: 10px;
+  }
+  
+  input,
+  textarea {
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  button {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #006400;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
