@@ -16,5 +16,10 @@
     "url": "https://github.com/ishaanayat5/Portfolio-Website/issues"
   },
   "homepage": "https://github.com/ishaanayat5/Portfolio-Website#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "htmlhint": "^1.7.0",
+    "stylelint": "^16.24.0",
+    "stylelint-config-standard": "^39.0.0"
+  }
 }
